@@ -30,6 +30,7 @@
                 <tr>
                     <td>${user.id}</td>
                     <td>${user.username}</td>
+                    <td>${user.fullName}</td>
 
                     <td>
                         <a href="editUser?id=${user.id}">Edit</a> |
